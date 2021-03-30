@@ -1,0 +1,1 @@
+For High dimesional Implementation, we assume all the matrices in our model are of block diagonal structure, with each block of shape 10*10. Then the high dimensional implementaion of EnKBF/MLEnKBF can be seperated into block-wise implementation.
