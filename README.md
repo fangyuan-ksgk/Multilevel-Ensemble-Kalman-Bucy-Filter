@@ -17,5 +17,9 @@ Packages used:
 
 Numpy, Scipy, Matplotlib, MPI4py, ipyparallel, progressbar, re, json, ast, warnings, time, datetime
 
+Platform:  
+
+Shaheen cluster with 32 nodes, 1024 cores. KAUST supercomputer.
+
 
 @Fangyuan_ksgk
