@@ -17,4 +17,9 @@ Packages used:
 
 Numpy, Scipy, Matplotlib, MPI4py, ipyparallel, progressbar, re, json, ast, warnings, time, datetime
 
+
+$$dX_t = A X_t dt + R_1 dW_t$$
+$$dY_t = H X_t dt + R_2 dV_t$$
+
+
 @Fangyuan_ksgk
