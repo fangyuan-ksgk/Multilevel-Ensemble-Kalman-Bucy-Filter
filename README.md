@@ -13,4 +13,8 @@ Description:
 2. The HPC simulation folder includes codes for parameter tuning and (D-)MLEnKBF simulations which can be done on Supercomputing platform. MPI4py packages are used here and we perform the simulation on KAUST supercomputer Shaheen on 1024 MPI cores.
 3. Test folder includes some test on the main functions.  
 
+Packages used:
+
+Numpy, Scipy, Matplotlib, MPI4py, ipyparallel, progressbar, re, json, ast, warnings, time, datetime
+
 @Fangyuan_ksgk
