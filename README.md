@@ -1,6 +1,6 @@
 # Multilevel-Ensemble-Kalman-Bucy-Filter
 
-This repository contains the main code for constructing a Multilevel Ensemble Kalman Bucy Filter with a randomized model in high dimension. A Deterministic Multilevel Ensemble Kalman Bucy Filter is also constructed in the Jupyterbook. 
+This repository contains an implementation of the Multilevel Ensemble Kalman Bucy Filter. Code for HPC implementation with MPI cores, designed to run on Supercomputer Shaheen is also included. The algorithm deals with linear Gaussian filtering problems in continuous time and has appealing performance in high dimensions. A Deterministic Multilevel Ensemble Kalman Bucy Filter is also constructed in the Jupyterbook. 
 
 Many thanks to my collaborators: Prof.Ajay Jasra and Dr.Neil Chada
 
